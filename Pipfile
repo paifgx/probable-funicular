@@ -12,6 +12,9 @@ numpy = "*"
 pandas = "*"
 scipy = "*"
 matplotlib = "*"
+pandas-stubs = "*"
+openai = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.11"
